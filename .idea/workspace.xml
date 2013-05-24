@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3773f77-d1ff-4b62-8fa5-70e45f942145" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-    </list>
+    <list default="true" id="e3773f77-d1ff-4b62-8fa5-70e45f942145" name="Default" comment="" />
     <ignored path="2linko.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e3773f77-d1ff-4b62-8fa5-70e45f942145" time="1369375757940" ignored="false" />
@@ -45,7 +43,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="178" selection-end="178" vertical-scroll-proportion="0.037220843">
+            <state line="6" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.22332506">
               <folding />
             </state>
           </provider>
@@ -512,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="178" selection-end="178" vertical-scroll-proportion="0.037220843">
+        <state line="6" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.22332506">
           <folding />
         </state>
       </provider>
