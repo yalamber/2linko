@@ -1,0 +1,19 @@
+#message_container {
+    height: 350px;
+    overflow: auto;
+}
+
+#message_list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#message_list li {
+    border-radius: 5px;
+    background: #dc2dbb;
+    margin-bottom: 2px;
+    padding: 10px;
+    color: #000;
+    font-style: italic;
+}
