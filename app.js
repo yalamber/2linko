@@ -3,7 +3,7 @@ var express = require('express')
   , app = express()
   , server = require('http').createServer(app)
   , io = require('socket.io').listen(server)
-  , app_port = 8081;
+  , app_port = 8080;
 
 server.listen(app_port);
 
